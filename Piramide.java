@@ -12,7 +12,7 @@ class Piramide{
         Double alt = leia.nextDouble();
         Double alado = (bas * alt) / 2;
         Double atotal = abas + alado;
-        System.out.print("A área desse círculo é: " + atotal);
+        System.out.print("A área dessa pirâmide é: " + atotal);
     }
 }
 
